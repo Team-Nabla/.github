@@ -8,11 +8,11 @@ Welcome to team Nabla.
 - Artur Palha
 - Gijs van den Oord
 - Luisa Orozco
-- Pablo Rodríguez
+- [Pablo Rodríguez](https://github.com/PabRod)
 
-## Repositories
+## Projects
 
-- [repository name](with link): description.
+- [project name](with link): description.
 
 ## References
 
