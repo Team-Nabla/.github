@@ -12,7 +12,9 @@ Welcome to team Nabla.
 
 ## Projects
 
-- [project name](with link): description.
+- [DEEPDIP](todo:add_link): description.
+- [UnSat](todo:add_link): description.
+- [DeepMolGen](todo:add_link): description.
 
 ## References
 
