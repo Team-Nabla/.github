@@ -7,7 +7,7 @@ Welcome to team Nabla.
 - Aron Jansen
 - Artur Palha
 - Gijs van den Oord
-- [Luisa Orozco] (https://www.linkedin.com/in/luisaorozco/)
+- [Luisa Orozco](https://www.linkedin.com/in/luisaorozco/)
 - [Pablo Rodríguez](https://github.com/PabRod)
 
 ## Projects
