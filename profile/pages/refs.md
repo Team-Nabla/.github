@@ -11,4 +11,4 @@
 
 ## Contacts
 
-- [Roland de Wolf](https://homepages.cwi.nl/~rdewolf/). Expert in **quantum machine learning**. Luisa met him in the context of the Research Semester Programme in Machine Learning Theory ([link](https://homepages.cwi.nl/~wmkoolen/MLT_Sem23/bootcamp.html))
+- [Roland de Wolf](https://homepages.cwi.nl/~rdewolf/). Expert in **quantum machine learning**. Luisa met him in the context of the Research Semester Programme in Machine Learning Theory ([link](https://homepages.cwi.nl/~wmkoolen/MLT_Sem23/bootcamp.html)).

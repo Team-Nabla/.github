@@ -18,4 +18,4 @@ Welcome to team Nabla.
 
 ## Other
 
-- [References and materials](pages/refs.md).
+- [References and materials](pages/refs.md)
