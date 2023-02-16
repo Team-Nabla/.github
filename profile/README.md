@@ -7,14 +7,14 @@ Welcome to team Nabla.
 - Aron Jansen
 - Artur Palha
 - Gijs van den Oord
-- Luisa Orozco
+- [Luisa Orozco] (https://www.linkedin.com/in/luisaorozco/)
 - [Pablo Rodríguez](https://github.com/PabRod)
 
 ## Projects
 
-- [DEEPDIP](todo:add_link): description.
-- [UnSat](todo:add_link): description.
-- [DeepMolGen](todo:add_link): description.
+- [DEEPDIP](https://research-software-directory.org/projects/deepdip)
+- [UnSat](https://research-software-directory.org/projects/unsat)
+- [DeepMolGen](https://research-software-directory.org/projects/deepmolgen)
 
 ## References
 
