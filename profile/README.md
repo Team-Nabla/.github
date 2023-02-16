@@ -16,6 +16,6 @@ Welcome to team Nabla.
 - [UnSat](https://research-software-directory.org/projects/unsat)
 - [DeepMolGen](https://research-software-directory.org/projects/deepmolgen)
 
-## References
+## Other
 
-- [reference name](with link): description.
+- [References and materials](pages/refs.md).
