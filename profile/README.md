@@ -4,9 +4,9 @@ Welcome to team Nabla.
 
 ## Members
 
-- Aron Jansen
+- [Aron Jansen](https://www.esciencecenter.nl/team/dr-aron-jansen/)
 - [Artur Palha](http://www.palha.org)
-- Gijs van den Oord
+- [Gijs van den Oord](https://www.esciencecenter.nl/team/dr-gijs-van-den-oord/)
 - [Luisa Orozco](https://www.linkedin.com/in/luisaorozco/)
 - [Pablo Rodríguez](https://github.com/PabRod)
 
