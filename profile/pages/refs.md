@@ -4,11 +4,10 @@
 
 ### Upcoming
 
-- 24 Feb 2023. [**AI4Science**](https://ai4science-amsterdam.github.io/workshop2/): Artificial Intelligence for science. Amsterdam.
+### Past
+
 - 26 Feb-3 March 2023. [**CSE23**](https://www.siam.org/conferences/cm/conference/cse23): SIAM Conference on Computational Science and Engineering. Amsterdam.
    - Team Nabla presents _Neural Network Solvers for Differential Equations_ [1](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75203) and [2](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75204).
-
-### Past
 
 <details>
   <summary> 24 February 2023 AI4Science Symposium [Click to expand]</summary>
