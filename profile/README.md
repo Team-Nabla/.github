@@ -12,7 +12,7 @@ Welcome to team Nabla.
 
 ## Projects
 
-- [DEEPDIP](https://research-software-directory.org/projects/deepdip)
+- [DEEPDIP](https://github.com/Team-Nabla/.github/blob/main/profile/pages/projects/deepdip/deepdip.md)
 - [UnSat](https://research-software-directory.org/projects/unsat)
 - [DeepMolGen](https://research-software-directory.org/projects/deepmolgen)
 
