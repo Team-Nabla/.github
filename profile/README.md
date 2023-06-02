@@ -16,7 +16,7 @@ Welcome to team Nabla.
 - [DEEPDIP](https://github.com/Team-Nabla/.github/blob/main/profile/pages/projects/deepdip/deepdip.md)
 - [UnSat](https://research-software-directory.org/projects/unsat)
 - [DeepMolGen](https://research-software-directory.org/projects/deepmolgen)
-- [QCforQC](pages/projects/qcforqc/qcforqc.md)
+- [QCforQC](https://github.com/Team-Nabla/.github/blob/main/profile/pages/projects/qcforqc/qcforqc.md)
 
 ## Other
 
