@@ -1,15 +1,14 @@
 # Team Nabla
 
-Welcome to team Nabla.
+Welcome to team Nabla $\nabla$
 
 ## Members
 
 - [Aron Jansen](https://www.esciencecenter.nl/team/dr-aron-jansen/)
-- [Artur Palha](http://www.palha.org)
-- [Gijs van den Oord](https://www.esciencecenter.nl/team/dr-gijs-van-den-oord/)
 - [Luisa Orozco](https://www.linkedin.com/in/luisaorozco/)
 - [Pablo Rodríguez](https://github.com/PabRod)
 - [Carlos Rocha](https://www.linkedin.com/in/carlos-mr-rocha)
+- [Simone Ciarella](https://www.esciencecenter.nl/team/simone-ciarella/)
 
 ## Projects
 
@@ -17,6 +16,7 @@ Welcome to team Nabla.
 - [UnSat](https://research-software-directory.org/projects/unsat)
 - [DeepMolGen](https://research-software-directory.org/projects/deepmolgen)
 - [QCforQC](https://github.com/Team-Nabla/.github/blob/main/profile/pages/projects/qcforqc/qcforqc.md)
+- [OnSET](https://research-software-directory.org/projects/et-apps)
 
 ## Other
 
