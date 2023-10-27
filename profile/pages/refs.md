@@ -4,8 +4,13 @@
 
 ### Upcoming
 
+- 23 November 2023, at CWI. [Symposium on the Applications of Scientific Machine Learning](https://www.cwi.nl/en/events/cwi-research-semester-programs/sciml-symposium/)
+- 16 November 2023, at Lab 42. [AI for chemistry](https://www.eventbrite.nl/e/tickets-chemai-entering-the-fifth-paradigm-for-chemistry-675267040897).
+
 ### Past
 
+- 9-13 October 2023. [Autumn school on scientific machine learning](https://www.cwi.nl/nl/events/cwi-research-semester-programs/autumn-school-scientific-machine-learning-semester-programme/)
+  - See [notes](https://github.com/DEEPDIP-project/logs/blob/main/attachments/2023-10-autumn-school/notes.md)
 - 26 Feb-3 March 2023. [**CSE23**](https://www.siam.org/conferences/cm/conference/cse23): SIAM Conference on Computational Science and Engineering. Amsterdam.
    - Team Nabla presents _Neural Network Solvers for Differential Equations_ [1](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75203) and [2](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75204).
 
