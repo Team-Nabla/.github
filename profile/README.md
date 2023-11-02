@@ -21,4 +21,5 @@ Welcome to team Nabla $\nabla$
 ## Other
 
 - [References and materials](https://github.com/Team-Nabla/.github/blob/main/profile/pages/refs.md)
+- [Upcoming and past events](./pages/events.md)
 - <a href="https://www.flaticon.com/free-icons/triangle" title="triangle icons">Triangle icons created by Freepik - Flaticon</a>
