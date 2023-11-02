@@ -4,8 +4,11 @@
 
 ### Upcoming
 
-- 23 November 2023, at CWI. [Symposium on the Applications of Scientific Machine Learning](https://www.cwi.nl/en/events/cwi-research-semester-programs/sciml-symposium/)
+- 10 November 2023, at Jaarbeurs Utrecht [DUCOMS](https://www.computationalsciencenl.nl/ducoms/)
 - 16 November 2023, at Lab 42. [AI for chemistry](https://www.eventbrite.nl/e/tickets-chemai-entering-the-fifth-paradigm-for-chemistry-675267040897).
+- 23 November 2023, at CWI. [Symposium on the Applications of Scientific Machine Learning](https://www.cwi.nl/en/events/cwi-research-semester-programs/sciml-symposium/)
+- 30 November [PyData Eindhoven](https://pydata.org/eindhoven2023) & 1 December [JuliaCon](https://juliacon.org/local/eindhoven2023/) 2023.
+- 23 & 24 January 2024, at Veldhoven [NWO Physics](https://www.nwophysics.nl/)
 
 ### Past
 
