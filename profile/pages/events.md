@@ -3,10 +3,11 @@
 |                Name                |        Date        |       Where       |                           Context                            |   Who    |
 |:----------------------------------:|:------------------:|:-----------------:|:------------------------------------------------------------:|:--------:|
 |         [DUCOMS][DUCOMS23]         |  10 November 2023  | Jaarbeurs Utrecht |               Computational science conference               | Pablo R. |
-|    [AI for chemistry][AIchem23]    |  16 November 2023  |      Lab 42       |                                                              |          |
-| [Applications of SciML][SciML1123] |  23 November 2023  |        CWI        | Symposium on the Applications of Scientific Machine Learning |          |
+|    [AI for chemistry][AIchem23]    |  16 November 2023  |      Lab 42       |                                                              | Aron     |
+| [Applications of SciML][SciML1123] |  23 November 2023  |        CWI        | Symposium on the Applications of Scientific Machine Learning | Aron     |
 |    [PyData Eindhoven][PyData23]    |  30 November 2023  |     Eindhoven     |                                                              | Pablo R. |
-|       [JuliaCon][JuliaCon23]       |  1 December 2023   |     Eindhoven     |                                                              | Pablo R. |
+|       [JuliaCon][JuliaCon23]       |  1 December 2023   |     Eindhoven     |                                                              | Pablo R., Aron|
+|       [SciML Workshop][SciML127]   |  6-8 December 2023 |     CWI           |                                                              | Aron     |
 |      [NWO Physics][NWOPhys24]      | 23-24 January 2023 |     Veldhoven     |                                                              |          |
 
 ## Past events
@@ -27,3 +28,4 @@
 [CSE23]: https://www.siam.org/conferences/cm/conference/cse23
 [CSE23_1]: https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75203
 [CSE23_2]: https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75204
+[SciML127]: https://www.cwi.nl/en/events/cwi-research-semester-programs/workshop-scientific-machine-learning-semester-programme/
