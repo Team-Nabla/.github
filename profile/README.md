@@ -18,8 +18,11 @@ Welcome to team Nabla $\nabla$
 - [QCforQC](https://github.com/Team-Nabla/.github/blob/main/profile/pages/projects/qcforqc/qcforqc.md)
 - [OnSET](https://research-software-directory.org/projects/et-apps)
 
-## Other
+## References
 
 - [References and materials](https://github.com/Team-Nabla/.github/blob/main/profile/pages/refs.md)
 - [Upcoming and past events](https://github.com/Team-Nabla/.github/blob/main/profile/pages/events.md)
+
+## Other
+
 - <a href="https://www.flaticon.com/free-icons/triangle" title="triangle icons">Triangle icons created by Freepik - Flaticon</a>
