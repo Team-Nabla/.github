@@ -17,6 +17,7 @@ Welcome to team Nabla $\nabla$
 - [DeepMolGen](https://research-software-directory.org/projects/deepmolgen)
 - [QCforQC](https://github.com/Team-Nabla/.github/blob/main/profile/pages/projects/qcforqc/qcforqc.md)
 - [OnSET](https://research-software-directory.org/projects/et-apps)
+- [MALES](https://github.com/Team-Nabla/.github/blob/main/profile/pages/projects/males/males.md)
 
 ## References
 
