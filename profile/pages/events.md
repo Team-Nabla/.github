@@ -2,14 +2,15 @@
 
 |                    Name                     |        Date        |       Where       |                           Context                            |      Who       |
 |:-------------------------------------------:|:------------------:|:-----------------:|:------------------------------------------------------------:|:--------------:|
-|             [DUCOMS][DUCOMS23]              |  10 November 2023  | Jaarbeurs Utrecht |               Computational science conference               |    Pablo R.    |
+|             [DUCOMS][DUCOMS23]              |  10 November 2023  | Jaarbeurs Utrecht |               Computational science conference               | Pablo R., Luisa|
 | [PDE Simulators for turbulence][Turbulence] |  13 November 2023  |        CWI        |                     Relevant for DEEPDIP                     |                |
-|        [AI for chemistry][AIchem23]         |  16 November 2023  |      Lab 42       |                                                              |      Aron      |
-|     [Applications of SciML][SciML1123]      |  23 November 2023  |        CWI        | Symposium on the Applications of Scientific Machine Learning |      Aron      |
-|        [PyData Eindhoven][PyData23]         |  30 November 2023  |     Eindhoven     |                                                              | Pablo R., Aron |
-|           [JuliaCon][JuliaCon23]            |  1 December 2023   |     Eindhoven     |                                                              |    Pablo R.    |
+|        [AI for chemistry][AIchem23]         |  16 November 2023  |      Lab 42       |                                                              |   Aron, Luisa  |
+|     [Applications of SciML][SciML1123]      |  23 November 2023  |        CWI        | Symposium on the Applications of Scientific Machine Learning |   Aron, Luisa  |
+|        [PyData Eindhoven][PyData23]         |  30 November 2023  |     Eindhoven     |                                                              | Pablo R., Aron, Luisa |
+|           [JuliaCon][JuliaCon23]            |  1 December 2023   |     Eindhoven     |                                                              | Pablo R., Luisa|
 |          [SciML workshop][SciML23]          | 6-8 December 2023  |        CWI        |                                                              |      Aron      |
-|          [NWO Physics][NWOPhys24]           | 23-24 January 2023 |     Veldhoven     |                                                              |                |
+|          [NWO Physics][NWOPhys24]           | 23-24 January 2024 |     Veldhoven     |                                                              |      Luisa     |
+|          [FOSDEM 2024][FOSDEM2024]          | 3-4 February 2024  |     Bruxelles     |                 European open source software meeting        |      Luisa     |
 
 ## Past events
 
@@ -26,6 +27,7 @@
 [JuliaCon23]: https://juliacon.org/local/eindhoven2023/
 [SciML23]: https://www.cwi.nl/en/events/cwi-research-semester-programs/workshop-scientific-machine-learning-semester-programme/
 [NWOPhys24]: https://www.nwophysics.nl/
+[FOSDEM2024]: https://fosdem.org/2024/
 
 [Autumn23]: https://www.cwi.nl/nl/events/cwi-research-semester-programs/autumn-school-scientific-machine-learning-semester-programme/
 [Autumn23Notes]: https://github.com/DEEPDIP-project/logs/blob/main/attachments/2023-10-autumn-school/notes.md
