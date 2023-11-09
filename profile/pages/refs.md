@@ -2,6 +2,11 @@
 
 ## Links
 
+### Teamwork
+
+- Teamworking [course materials](https://github.com/NLeSC/teamwork-for-research-software-development/blob/e3fe72cf55ef5008a5046f90ff5c9ca22d43e2a1/README.md#L3)
+- Agile leadership course by [Ron Eringa](https://xebia.com/academy/en/training/professional-agile-leadership-essentials)
+
 ### Administrative
 
 - [Ganticc simulator](https://nlesc.sharepoint.com/:x:/s/teamnabla2/Ed9Dm9F12BxDgndL71I4u_gBO6zfj0hqckyHa4fiou9i_A?e=erZznn)
