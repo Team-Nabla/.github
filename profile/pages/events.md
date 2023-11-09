@@ -2,14 +2,14 @@
 
 |                    Name                     |        Date        |       Where       |                           Context                            |      Who       |
 |:-------------------------------------------:|:------------------:|:-----------------:|:------------------------------------------------------------:|:--------------:|
-|             [DUCOMS][DUCOMS23]              |  10 November 2023  | Jaarbeurs Utrecht |               Computational science conference               | Pablo R., Luisa|
-| [PDE Simulators for turbulence][Turbulence] |  13 November 2023  |        CWI        |                     Relevant for DEEPDIP                     |                |
-|        [AI for chemistry][AIchem23]         |  16 November 2023  |      Lab 42       |                                                              |   Aron, Luisa  |
+|             [DUCOMS][DUCOMS23]              |  10 November 2023  | Jaarbeurs Utrecht |               Computational science conference               | Pablo R., Luisa, Simone |
+| [PDE Simulators for turbulence][Turbulence] |  13 November 2023  |        CWI        |                     Relevant for DEEPDIP                     |      Simone          |
+|        [AI for chemistry][AIchem23]         |  16 November 2023  |      Lab 42       |                                                              |   Aron, Luisa, Simone, Murilo  |
 |     [Applications of SciML][SciML1123]      |  23 November 2023  |        CWI        | Symposium on the Applications of Scientific Machine Learning |   Aron, Luisa  |
 |        [PyData Eindhoven][PyData23]         |  30 November 2023  |     Eindhoven     |                                                              | Pablo R., Aron, Luisa |
 |           [JuliaCon][JuliaCon23]            |  1 December 2023   |     Eindhoven     |                                                              | Pablo R., Luisa|
-|          [SciML workshop][SciML23]          | 6-8 December 2023  |        CWI        |                                                              |      Aron      |
-|          [NWO Physics][NWOPhys24]           | 23-24 January 2024 |     Veldhoven     |                                                              |      Luisa     |
+|          [SciML workshop][SciML23]          | 6-8 December 2023  |        CWI        |                                                              |      Aron, Simone      |
+|          [NWO Physics][NWOPhys24]           | 23-24 January 2024 |     Veldhoven     |                                                              |      Luisa, Murilo, Simone     |
 |          [FOSDEM 2024][FOSDEM2024]          | 3-4 February 2024  |     Bruxelles     |                 European open source software meeting        |      Luisa     |
 
 ## Past events
