@@ -1,27 +1,29 @@
 # Events calendar
 
-|                    Name                     |        Date        |       Where       |                           Context                            |      Who       |
-|:-------------------------------------------:|:------------------:|:-----------------:|:------------------------------------------------------------:|:--------------:|
-|             [DUCOMS][DUCOMS23]              |  10 November 2023  | Jaarbeurs Utrecht |               Computational science conference               | Pablo R., Luisa, Simone |
-| [PDE Simulators for turbulence][Turbulence] |  13 November 2023  |        CWI        |                     Relevant for DEEPDIP                     |      Simone          |
-|        [AI for chemistry][AIchem23]         |  16 November 2023  |      Lab 42       |                                                              |   Aron, Luisa, Simone, Murilo  |
-|     [Applications of SciML][SciML1123]      |  23 November 2023  |        CWI        | Symposium on the Applications of Scientific Machine Learning |   Aron, Luisa  |
-|        [PyData Eindhoven][PyData23]         |  30 November 2023  |     Eindhoven     |                                                              | Pablo R., Aron, Luisa |
-|           [JuliaCon][JuliaCon23]            |  1 December 2023   |     Eindhoven     |                                                              | Pablo R., Luisa|
-|          [SciML workshop][SciML23]          | 6-8 December 2023  |        CWI        |                                                              |      Aron, Simone      |
-|          [NWO Physics][NWOPhys24]           | 23-24 January 2024 |     Veldhoven     |                                                              |      Luisa, Murilo, Simone     |
-|          [FOSDEM 2024][FOSDEM2024]          | 3-4 February 2024  |     Bruxelles     |                 European open source software meeting        |      Luisa     |
+|                    Name                     |        Date        |   Where   |                           Context                            |             Who             |
+|:-------------------------------------------:|:------------------:|:---------:|:------------------------------------------------------------:|:---------------------------:|
+| [PDE Simulators for turbulence][Turbulence] |  13 November 2023  |    CWI    |                     Relevant for DEEPDIP                     |           Simone            |
+|        [AI for chemistry][AIchem23]         |  16 November 2023  |  Lab 42   |                                                              | Aron, Luisa, Simone, Murilo |
+|           [NL-RSE meetup][RSE23]            |  23 November 2023  |  Leiden   |                                                              |          Pablo R.           |
+|     [Applications of SciML][SciML1123]      |  23 November 2023  |    CWI    | Symposium on the Applications of Scientific Machine Learning |         Aron, Luisa         |
+|        [PyData Eindhoven][PyData23]         |  30 November 2023  | Eindhoven |                                                              |    Pablo R., Aron, Luisa    |
+|           [JuliaCon][JuliaCon23]            |  1 December 2023   | Eindhoven |                                                              |       Pablo R., Luisa       |
+|          [SciML workshop][SciML23]          | 6-8 December 2023  |    CWI    |                                                              |        Aron, Simone         |
+|          [NWO Physics][NWOPhys24]           | 23-24 January 2024 | Veldhoven |                                                              |    Luisa, Murilo, Simone    |
+|          [FOSDEM 2024][FOSDEM2024]          | 3-4 February 2024  | Bruxelles |            European open source software meeting             |            Luisa            |
 
 ## Past events
 
-|                         Name                         |            Date            |   Where   |                 Context                 |              Who              |
-|:----------------------------------------------------:|:--------------------------:|:---------:|:---------------------------------------:|:-----------------------------:|
-|          [Autumn school on SciML][Autumn23]          |     9-13 October 2023      |    CWI    |       See [notes][Autumn23Notes]        | Simone, Aron, Luisa, Pablo R. |
-| [Siam Conference on Computational Science 23][CSE23] | 26 February - 3 March 2023 | Amsterdam | Presented [1][CSE23_1] and [2][CSE23_2] |                               |
+|                         Name                         |            Date            |       Where       |                 Context                 |              Who              |
+|:----------------------------------------------------:|:--------------------------:|:-----------------:|:---------------------------------------:|:-----------------------------:|
+|                  [DUCOMS][DUCOMS23]                  |      10 November 2023      | Jaarbeurs Utrecht |    Computational science conference     |    Pablo R., Luisa, Simone    |
+|          [Autumn school on SciML][Autumn23]          |     9-13 October 2023      |        CWI        |       See [notes][Autumn23Notes]        | Simone, Aron, Luisa, Pablo R. |
+| [Siam Conference on Computational Science 23][CSE23] | 26 February - 3 March 2023 |     Amsterdam     | Presented [1][CSE23_1] and [2][CSE23_2] |                               |
 
 [DUCOMS23]: https://www.computationalsciencenl.nl/ducoms/
 [Turbulence]: https://www.cwi.nl/nl/events/cwi-research-semester-programs/seminar-part-3-scientific-machine-learning-semester-programme/ 
 [AIchem23]: https://www.eventbrite.nl/e/tickets-chemai-entering-the-fifth-paradigm-for-chemistry-675267040897
+[RSE23]: https://nl-rse.org/events/2023-11-23-meetup 
 [SciML1123]: https://www.cwi.nl/en/events/cwi-research-semester-programs/sciml-symposium/
 [PyData23]: https://pydata.org/eindhoven2023
 [JuliaCon23]: https://juliacon.org/local/eindhoven2023/
