@@ -16,7 +16,7 @@
 
 |                         Name                         |            Date            |       Where       |                 Context                 |              Who              |
 |:----------------------------------------------------:|:--------------------------:|:-----------------:|:---------------------------------------:|:-----------------------------:|
-|                  [DUCOMS][DUCOMS23]                  |      10 November 2023      | Jaarbeurs Utrecht |    Computational science conference     |    Pablo R., Luisa, Simone    |
+|                  [DUCOMS][DUCOMS23]                  |      10 November 2023      | Jaarbeurs Utrecht |    Computational science conference     |    Pablo R., Luisa, Simone, Murilo |
 |          [Autumn school on SciML][Autumn23]          |     9-13 October 2023      |        CWI        |       See [notes][Autumn23Notes]        | Simone, Aron, Luisa, Pablo R. |
 | [Siam Conference on Computational Science 23][CSE23] | 26 February - 3 March 2023 |     Amsterdam     | Presented [1][CSE23_1] and [2][CSE23_2] |                               |
 
