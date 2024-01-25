@@ -10,6 +10,7 @@ Welcome to team Nabla $\nabla$
 - [Carlos Rocha](https://www.linkedin.com/in/carlos-mr-rocha)
 - [Simone Ciarella](https://www.esciencecenter.nl/team/simone-ciarella/)
 - [Victor Azizi](https://github.com/v1kko)
+- [Stef Smeets](https://github.com/stefsmeets)
 
 ## Projects
 
@@ -19,7 +20,8 @@ Welcome to team Nabla $\nabla$
 - [QCforQC](https://github.com/Team-Nabla/.github/blob/main/profile/pages/projects/qcforqc/qcforqc.md)
 - [OnSET](https://research-software-directory.org/projects/et-apps)
 - [MALES](https://github.com/Team-Nabla/.github/blob/main/profile/pages/projects/males/males.md)
-- [duq tools](https://github.com/duqtools)
+- [duqtools](https://github.com/duqtools)
+- [GEMDAT](https://github.com/gemdat-repos)
 - [Km3net rucio data management solution](https://git.km3net.de/rucio)
 
 ## References
